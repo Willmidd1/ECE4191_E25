@@ -6,7 +6,7 @@ The files in this repository are as follows:
 - robot.py: all code the rpi uses to determine which direction to drive and communicate with the STM
 - main.c: main STM code
 - routines.c: all STM functions for the FSM implementation
-- zip file: the zipped STM project archive
+- ece4191_e25_stm_project.zip: the zipped STM project archive
 
 Team Members:
 Will Middlewick (33156433)
